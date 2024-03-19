@@ -10,7 +10,7 @@ function generateRandomNumber (max) {
    //return random number 0-10;
     let randomNum = Math.floor(Math.random() * max) + 1; 
 
-// if ... else if ... else statement
+/// if ... else if ... else statement
 // if (condition) {block og code to execute}
 // ==, !, =, >, <, >=, <=, &&, ||
 
